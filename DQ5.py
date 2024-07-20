@@ -1,0 +1,10 @@
+a=2
+b=9
+c=4
+a=a+b
+b=a-b
+c=b+c
+a=a-b
+b=c-a
+c=a
+print(a,b,c)
